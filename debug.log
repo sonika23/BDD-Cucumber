@@ -1,0 +1,28 @@
+[1220/162033.349:ERROR:process_info.cc(359)] UncheckedAllocate
+[1220/162033.585:ERROR:process_info.cc(359)] UncheckedAllocate
+[1220/162047.483:ERROR:process_info.cc(359)] UncheckedAllocate
+[1220/162056.780:ERROR:process_info.cc(359)] UncheckedAllocate
+[1224/142403.444:ERROR:file_io_win.cc(161)] CreateFile C:\Users\SONIKA~1.GOY\AppData\Local\Temp\scoped_dir15428_1805015005\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1224/142403.444:ERROR:file_io_win.cc(170)] CreateFile C:\Users\SONIKA~1.GOY\AppData\Local\Temp\scoped_dir15428_1805015005\Crashpad\reports\a8860355-04aa-4d49-abd1-739db2d16de5.dmp: The system cannot find the path specified. (0x3)
+[1224/142403.444:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1224/143923.623:ERROR:file_io_win.cc(161)] CreateFile C:\Users\SONIKA~1.GOY\AppData\Local\Temp\scoped_dir15428_1805015005\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1224/143923.623:ERROR:file_io_win.cc(170)] CreateFile C:\Users\SONIKA~1.GOY\AppData\Local\Temp\scoped_dir15428_1805015005\Crashpad\reports\2057e558-eeb7-4221-8f81-3f84a9ae2d99.dmp: The system cannot find the path specified. (0x3)
+[1224/143923.623:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1224/150556.092:ERROR:file_io_win.cc(161)] CreateFile C:\Users\SONIKA~1.GOY\AppData\Local\Temp\scoped_dir15428_1805015005\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1224/150556.092:ERROR:file_io_win.cc(161)] CreateFile C:\Users\SONIKA~1.GOY\AppData\Local\Temp\scoped_dir15428_1805015005\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1224/150556.093:ERROR:file_io_win.cc(170)] CreateFile C:\Users\SONIKA~1.GOY\AppData\Local\Temp\scoped_dir15428_1805015005\Crashpad\reports\b57ced60-824a-4c13-958c-922e70016632.dmp: The system cannot find the path specified. (0x3)
+[1224/150556.093:ERROR:file_io_win.cc(170)] CreateFile C:\Users\SONIKA~1.GOY\AppData\Local\Temp\scoped_dir15428_1805015005\Crashpad\reports\f381e8f2-fc30-49d1-96df-e1dcad417130.dmp: The system cannot find the path specified. (0x3)
+[1224/150556.093:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1224/150556.093:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1224/150556.094:ERROR:file_io_win.cc(161)] CreateFile C:\Users\SONIKA~1.GOY\AppData\Local\Temp\scoped_dir15428_1805015005\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1224/150556.094:ERROR:file_io_win.cc(170)] CreateFile C:\Users\SONIKA~1.GOY\AppData\Local\Temp\scoped_dir15428_1805015005\Crashpad\reports\8ebc0721-c8d2-4042-9627-62b1a36d24a0.dmp: The system cannot find the path specified. (0x3)
+[1224/150556.094:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1224/150710.289:ERROR:file_io_win.cc(161)] CreateFile C:\Users\SONIKA~1.GOY\AppData\Local\Temp\scoped_dir15428_1805015005\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1224/150710.289:ERROR:file_io_win.cc(170)] CreateFile C:\Users\SONIKA~1.GOY\AppData\Local\Temp\scoped_dir15428_1805015005\Crashpad\reports\108f8ee1-b6bb-403f-a7ef-1b42fa53143f.dmp: The system cannot find the path specified. (0x3)
+[1224/150710.289:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1224/150716.493:ERROR:file_io_win.cc(161)] CreateFile C:\Users\SONIKA~1.GOY\AppData\Local\Temp\scoped_dir15428_1805015005\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1224/150716.493:ERROR:file_io_win.cc(170)] CreateFile C:\Users\SONIKA~1.GOY\AppData\Local\Temp\scoped_dir15428_1805015005\Crashpad\reports\e746a537-4630-44f0-8239-668fc663122c.dmp: The system cannot find the path specified. (0x3)
+[1224/150716.493:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1224/150816.078:ERROR:file_io_win.cc(161)] CreateFile C:\Users\SONIKA~1.GOY\AppData\Local\Temp\scoped_dir15428_1805015005\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1224/150816.078:ERROR:file_io_win.cc(170)] CreateFile C:\Users\SONIKA~1.GOY\AppData\Local\Temp\scoped_dir15428_1805015005\Crashpad\reports\5e9912f7-8722-40e2-9038-8f3d479d671b.dmp: The system cannot find the path specified. (0x3)
+[1224/150816.078:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
